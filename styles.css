@@ -1,0 +1,112 @@
+#header{
+    padding:25px 0 20px 40px;
+}
+#buttons{
+    margin-left:520px;
+    margin-top:-85px;
+}
+#header-section{
+    background-image:url(/images/party-background.jpg);
+    background-repeat: no-repeat;
+    background-size:1350px 640px;
+    width:1350px;
+    height:640px;
+    margin-top:-23px;
+    margin-left: -10px;
+    color:#fff;
+    font-family: sans-serif;
+}
+.flex{
+    display: flex;
+display: inline-block;
+font-size: 20px;
+}
+.transparent{
+    color:transparent;
+}
+
+.space-between{
+    padding-left: 30px;
+}
+#margin-icon{
+    margin-left: 1270px;
+    margin-top: -40px;
+    font-size:25px;
+}
+
+#header-text{
+    margin-top: -440px;
+    position: absolute;
+    text-align: center;
+    margin-left:410px;
+}
+
+#head{
+    font-size: 50px;
+    color:#fff;
+    font-family: sans-serif;
+}
+
+#best{
+    color:#fff;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+#button{
+    position: absolute;
+    border: 2px solid #fff;
+    background-color: transparent;
+    height: 40px;
+    width: 150px;
+    color: #fff;
+    margin-left:-90px;
+}
+
+#elon{
+    margin-left:1100px;
+    margin-top:-130px;
+}
+
+#guests{
+    margin-left: 460px;
+    margin-top:-260px;
+    font-family: sans-serif;
+}
+
+#party-information-section{
+    text-align: center;
+    background-color: purple;
+    margin-top:-20px;
+    width: 1360px;
+    margin-left: -10px;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+hr{
+    visibility: hidden;
+}
+
+#about{
+    padding-top: 30px;
+}
+
+#chance{
+    padding-bottom: 30px;
+}
+
+#footer{
+    padding: 5% 15%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+
+#popular{
+    font-family: sans-serif;
+    text-align:center;
+}
